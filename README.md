@@ -1,5 +1,5 @@
-# imageStitch
-Stitch images usng imagemagick
+# ImageStitch
+Stitch images using ImageMagick
 
 Example output:
 
